@@ -21,7 +21,8 @@
     "energy": "chill",
     "difficulty": "easy",
     "tags": ["travel", "basic"],
-    "notes": "Side-step with bounce."
+    "notes": "Side-step with bounce.",
+    "image": "images/two_step_basic.jpg"
   },
   {
     "id": "two_step_sweep",
@@ -45,7 +46,8 @@
     "energy": "smooth",
     "difficulty": "easy",
     "tags": ["groove", "isolation"],
-    "notes": "Upward chest wave."
+    "notes": "Upward chest wave.",
+    "image": "images/body_roll.jpg"
   },
   {
     "id": "body_roll_down",
@@ -69,7 +71,8 @@
     "energy": "accent",
     "difficulty": "easy",
     "tags": ["hit", "gesture"],
-    "notes": "Sharp accent on downbeat."
+    "notes": "Sharp accent on downbeat.",
+    "image": "images/point_right.jpg"
   },
   {
     "id": "point_left",
@@ -81,7 +84,8 @@
     "energy": "accent",
     "difficulty": "easy",
     "tags": ["hit", "gesture"],
-    "notes": "Mirror of Point Right."
+    "notes": "Mirror of Point Right.",
+    "image": "images/point_left.jpg"
   },
   {
     "id": "snap_up",
@@ -166,9 +170,9 @@
     "energy": "bouncy",
     "difficulty": "medium",
     "tags": ["footwork"],
-    "notes": "Rock between heel and toe angles."
+    "notes": "Rock between heel and toe angles.",
+    "image": "images/heel_toe.jpg"
   },
-
   {
     "id": "running_man",
     "name": "Running Man",
@@ -179,7 +183,9 @@
     "energy": "hype",
     "difficulty": "easy",
     "tags": ["oldschool", "bounce"],
-    "notes": "Classic; stacks well."
+    "notes": "Classic; stacks well.",
+    "image": "images/running_man.jpg"
+
   },
   {
     "id": "rejig_basic",
@@ -277,7 +283,6 @@
     "tags": ["shapes", "level"],
     "notes": "Low shape; not a full freeze."
   },
-
   {
     "id": "kpop_hand_heart",
     "name": "K-Pop Finger Heart",
@@ -288,7 +293,8 @@
     "energy": "cute",
     "difficulty": "easy",
     "tags": ["gesture", "face"],
-    "notes": "Fast accent, camera-friendly."
+    "notes": "Fast accent, camera-friendly.",
+    "image": "images/kpop_finger_heart.jpg"
   },
   {
     "id": "kpop_shoulder_swipe",
