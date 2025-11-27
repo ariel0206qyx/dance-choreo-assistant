@@ -1,4 +1,3 @@
-# src/library.py
 import json
 
 def load_library(path="motion_library.json"):
