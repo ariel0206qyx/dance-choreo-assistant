@@ -1,4 +1,3 @@
-# src/recommend.py
 import random
 from collections import defaultdict, deque
 
